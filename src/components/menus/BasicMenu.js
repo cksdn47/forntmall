@@ -12,7 +12,7 @@ const BasicMenu = () => {
             <div className="w-4/5 bg0gray-500">
                 <ul className="flex p-4 text-white font-bold">
                     <li className="pr-6 text-2xl">
-                        <Link to={'/'}>메인</Link>
+                        <Link to={'/'}>Main</Link>
                     </li>
                     <li className="pr-6 text-2xl">
                         <Link to={'/about'}>About</Link>
